@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   
 
 - 🌱 Used at least once 
@@ -27,6 +28,14 @@
   <img src="https://img.shields.io/badge/AWSEC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
   <img src="https://img.shields.io/badge/AWSRDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white">
   
+  <br></br>
+  
+## ✨Projects
+- 2022.03-2022.06 [솜뮤직(SOMusic)](https://github.com/jinju9553/SOMusic-SpringBoot) 
+- 2022.02-2022.05 [사자의 서(Book of the Dead)](https://github.com/URKnock/Egypt)
+- 2021.09-2021.12 [에코딩(Ecoding)](https://github.com/URKnock/Ecoding)
+- 2021.03-2021.11 [에코로드(Eco Road)](https://github.com/raspberry-cookie/air-pollution)
+
   <br></br>
 
 ## ✨Etc
