@@ -2,6 +2,7 @@
 
 ## 📫Connect
 - Email: jinju9553@gmail.com
+- Blog : https://pearliest.tistory.com/
   <br></br>
 
 ## ✨Tech Stack
